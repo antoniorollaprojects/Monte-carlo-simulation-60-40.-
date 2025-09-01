@@ -1,1 +1,0 @@
-# Monte-carlo-simulation-60-40.-
